@@ -1,1 +1,1 @@
-# -7-Basic-GUI
+# Paper-7-Basic-GUI
